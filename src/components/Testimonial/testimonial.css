@@ -1,0 +1,54 @@
+.testimain-div {
+    width: 85%;
+    margin: 100px auto;
+    flex-wrap: wrap;
+
+}
+
+.testi-div {
+    width: 50%;
+    padding: 20px;
+}
+
+.testi-content {
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.top-div {
+    display: flex;
+
+}
+
+
+
+.top-div img {
+    width: 20%;
+    border-radius: 50%;
+    border: 3px solid rgb(6, 6, 171);
+    margin-right: 15px;
+
+}
+
+.top-div h5 {
+    font-size: 18px;
+    color: rgb(6, 6, 148);
+}
+
+.top-div p {
+    font-size: 15px;
+    color: gray;
+    margin-top: 3px;
+}
+
+
+
+.slick-prev:before,
+.slick-next:before {
+    font-size: 25px !important;
+    /* Adjust the size of the arrow icons */
+    color: #020621 !important;
+    margin: 0PX !important;
+    padding: 0px !important;
+    /* Change to your desired color and use !important to ensure it applies */
+}

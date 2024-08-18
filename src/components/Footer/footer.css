@@ -1,0 +1,15 @@
+.footer-main{
+    margin-top: 150px;
+}
+
+.footer-div{
+    width: 90%;
+    margin: 15px auto;
+    margin-top: 50p;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-right span{
+    margin-left: 30px;
+}
