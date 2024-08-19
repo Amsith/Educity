@@ -15,30 +15,23 @@ Using HTML, CSS, JavaScript, and the Bootstrap framework, we've crafted a visual
 </p>
 <br>
 <p align="center">
-  <img width="75%" height="50%" src="Screen shots/2.jpg">
+  <img width="75%" height="50%" src="Educity screenshots/2.png" style="border: 2px solid #000;">
 </p>
 <br>
 <p align="center">
-  <img width="75%" height="50%" src="Screen shots/3.jpg">
+  <img width="75%" height="50%" src="Educity screenshots/3.png" style="border: 2px solid #000;">
 </p>
 <br>
 <p align="center">
-  <img width="75%" height="50%" src="Screen shots/4.jpg">
+  <img width="75%" height="50%" src="Educity screenshots/4.png" style="border: 2px solid #000;">
 </p>
 <br>
 <p align="center">
-  <img width="75%" height="50%" src="Screen shots/5.jpg">
+ <img width="75%" height="50%" src="Educity screenshots/5.png" style="border: 2px solid #000;">
 </p>
 <br>
 <p align="center">
-  <img width="75%" height="50%" src="Screen shots/6.jpg">
+ <img width="75%" height="50%" src="Educity screenshots/6.png" style="border: 2px solid #000;">
 </p>
 <br>
-<p align="center">
-  <img width="75%" height="50%" src="Screen shots/7.jpg">
-</p>
-<br>
-<p align="center">
-  <img width="75%" height="50%" src="Screen shots/8.jpg">
-</p>
-<br>
+
