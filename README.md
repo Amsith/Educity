@@ -10,10 +10,8 @@ Using HTML, CSS, JavaScript, and the Bootstrap framework, we've crafted a visual
  
 </p>
 
-
-
 <p align="center">
- <img width="75%" height="50%" src="Screen shots/1.jpg" style="border: 2px solid #000;">
+ <img width="75%" height="50%" src="Educity screenshots/1.png" style="border: 2px solid #000;">
 </p>
 <br>
 <p align="center">
