@@ -1,12 +1,11 @@
 <p align="center">
-  <img width="300" height="150" src="image/Official_Elixir_logo.png">
+  <img width="300" height="150" src="Educity screenshots/logo.png">
 </p>
 <hr>
 
 <p align="left">
-Welcome to our project! We're excited to introduce you to our meticulously crafted landing page, designed with a blend of creativity, functionality, and user-centric principles.
   
-Using HTML, CSS, JavaScript, and the Bootstrap framework, we've crafted a visually stunning and highly interactive landing page. From sleek animations that captivate your attention to seamless mobile responsiveness that ensures a flawless experience across devices, every aspect of our project has been carefully engineered to leave a lasting impression.
+Welcome to the Edusity landing page, a cornerstone of innovation in digital education. Built with React, this responsive design adapts seamlessly to all devices, delivering a smooth and engaging experience. Edusity embodies the future of learning, combining modern technology with user-centric design to create a powerful platform for education.
  
 </p>
 
